@@ -16,7 +16,7 @@ The repository is organized into distinct projects:
 
 ---
 
-### 💳 [Project 02: Credit Card Default Prediction (Supervised Learning)](file:///Users/shivampatidar/Downloads/DecodeLabs-Internship/Project-02/README.md)
+### 💳 [Project 02: Supervised Learning (Fraud Detection)](file:///Users/shivampatidar/Downloads/DecodeLabs-Internship/Project-02/README.md)
 * **Goal:** Develop a binary classification pipeline to predict if credit card clients will default on payments next month.
 * **Key Tasks:** Exploratory data analysis, leak-free train-test splitting, feature scaling, class balancing using SMOTE, model training, and performance evaluation.
 * **Deliverables:** Predictive classification models, serialization files for scalers/models, and evaluation notebook.
