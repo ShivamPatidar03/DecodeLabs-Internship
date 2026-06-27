@@ -1,4 +1,4 @@
-# Project 02 - Credit Card Default Prediction
+# Project 02 - Supervised Learning (Fraud Detection)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-v2.0%2B-150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
